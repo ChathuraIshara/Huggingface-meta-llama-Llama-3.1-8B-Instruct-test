@@ -14,7 +14,7 @@ completion = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "What is the capital of France?"
+            "content": "What is the capital of srilanka?"
         }
     ],
 )
